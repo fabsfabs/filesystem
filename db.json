@@ -3,7 +3,7 @@
         {
             "id": "0",
             "type": "img",
-            "name": "Example Glossary",
+            "name": "Example-glossary.png",
             "description": {
                 "pathurl": "/images/ambient.png",
                 "name": "imgTest",
@@ -18,7 +18,7 @@
         {
             "id": "1",
             "type": "img",
-            "name": "test",
+            "name": "test.png",
             "description": {
                 "pathurl": "/images/download.png",
                 "name": "imgTest",
@@ -33,14 +33,14 @@
         {
             "id": "2",
             "type": "folder",
-            "name": "prova",
+            "name": "prova.png",
             "size": 512,
             "index": 0,
             "other": [
                 {
                     "id": "2.1",
                     "type": "file",
-                    "name": "evvai2",                   
+                    "name": "evvai2.png",                   
                     "size": 512,
                     "index": 1,
                     "other": []
@@ -54,7 +54,7 @@
                     "other": [
                         {
                             "id": "2.11",
-                            "type": "file",
+                            "type": "file.png",
                             "name": "file-known",
                             "size": 512,
                             "index": 2,                            
@@ -70,7 +70,7 @@
                                 {
                                     "id": "3.1",
                                     "type": "file",
-                                    "name": "cartella2",
+                                    "name": "cartella2.png",
                                     "size": 512,
                                     "index": 2,
                                     "description": {
@@ -87,7 +87,7 @@
                                 {
                                     "id": "3.2",
                                     "type": "file",
-                                    "name": "bo",
+                                    "name": "bo.png",
                                     "size": 512,
                                     "index": 2,
                                     "description": {
@@ -123,7 +123,7 @@
                         {
                             "id": "3.11",
                             "type": "file",
-                            "name": "cartella245",
+                            "name": "cartella245.png",
                             "size": 512,
                             "description": {
                                 "pathurl": "/images/ambient.png",
@@ -138,7 +138,7 @@
                         {
                             "id": "3.12",
                             "type": "file",
-                            "name": "bo2",
+                            "name": "bo2.png",
                             "description": {
                                 "pathurl": "/images/ambient.png",
                                 "name": "imgTest",
@@ -155,7 +155,7 @@
                 {
                     "id": "3.2",
                     "type": "file",
-                    "name": "evvai24",
+                    "name": "evvai24.png",
                     "size": 512,
                     "description": {
                         "pathurl": "/images/ambient.png",
