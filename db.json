@@ -6,7 +6,7 @@
             "name": "Example-glossary.png",
             "description": {
                 "pathurl": "/images/ambient.png",
-                "name": "imgTest",
+                "name": "Example-glossary",
                 "alt": "img",
                 "caption": "immagine di test",
                 "type": "png"
@@ -18,7 +18,7 @@
         {
             "id": "1",
             "type": "img",
-            "name": "test.png",
+            "name": "imgTest.png",
             "description": {
                 "pathurl": "/images/download.png",
                 "name": "imgTest",
@@ -47,7 +47,14 @@
                 {
                     "id": "2.1",
                     "type": "file",
-                    "name": "evvai2.png",                   
+                    "name": "evvai2.png",   
+                    "description": {
+                        "pathurl": "/images/download.png",
+                        "name": "evvai2",
+                        "alt": "img",
+                        "caption": "immagine di test",
+                        "type": "png"
+                    },                    
                     "size": 512,
                     "index": 1,
                     "other": []
@@ -72,7 +79,7 @@
                             "name": "file-known",
                             "description": {
                                 "pathurl": '/images/download.png',
-                                "name": "evvai3",
+                                "name": "file-known",
                                 "alt": 'ciao-ciao',
                                 "caption": 'ciao-ciao',
                                 "type": 'png'
@@ -103,7 +110,7 @@
                                     "index": 2,
                                     "description": {
                                         "pathurl": "/images/ambient.png",
-                                        "name": "imgTest",
+                                        "name": "cartella2",
                                         "alt": "img",
                                         "caption": "immagine di test ambient",
                                         "type": "png"
@@ -120,7 +127,7 @@
                                     "index": 2,
                                     "description": {
                                         "pathurl": "/images/ambient.png",
-                                        "name": "imgTest",
+                                        "name": "bo",
                                         "alt": "img",
                                         "caption": "immagine di test ambient",
                                         "type": "png"
@@ -169,7 +176,7 @@
                             "size": 512,
                             "description": {
                                 "pathurl": "/images/ambient.png",
-                                "name": "imgTest",
+                                "name": "cartella245",
                                 "alt": "img",
                                 "caption": "immagine di test ambient",
                                 "type": "png"
@@ -183,7 +190,7 @@
                             "name": "bo2.png",
                             "description": {
                                 "pathurl": "/images/ambient.png",
-                                "name": "imgTest",
+                                "name": "bo2",
                                 "alt": "img",
                                 "caption": "immagine di test ambient",
                                 "type": "png"
@@ -201,7 +208,7 @@
                     "size": 512,
                     "description": {
                         "pathurl": "/images/ambient.png",
-                        "name": "imgTest",
+                        "name": "evvai24",
                         "alt": "img",
                         "caption": "immagine di test ambient",
                         "type": "png"
