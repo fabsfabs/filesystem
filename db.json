@@ -78,11 +78,11 @@
                             "type": "file",
                             "name": "file-known",
                             "description": {
-                                "pathurl": '/images/download.png',
+                                "pathurl": "/images/download.png",
                                 "name": "file-known",
-                                "alt": 'ciao-ciao',
-                                "caption": 'ciao-ciao',
-                                "type": 'png'
+                                "alt": "ciao-ciao",
+                                "caption": "ciao-ciao",
+                                "type": "png"
                             },                             
                             "size": 512,
                             "index": 2,                            
