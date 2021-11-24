@@ -34,6 +34,13 @@
             "id": "2",
             "type": "folder",
             "name": "prova",
+            "description": {
+                "pathurl": null,
+                "name": "prova",
+                "alt": null,
+                "caption": null,
+                "type": null
+            },            
             "size": 512,
             "index": 0,
             "other": [
@@ -49,13 +56,27 @@
                     "id": "2.2",
                     "type": "folder",
                     "name": "evvai3",
+                    "description": {
+                        "pathurl": null,
+                        "name": "evvai3",
+                        "alt": null,
+                        "caption": null,
+                        "type": null
+                    },                    
                     "size": 512,
                     "index": 1,
                     "other": [
                         {
                             "id": "2.11",
-                            "type": "file.png",
+                            "type": "file",
                             "name": "file-known",
+                            "description": {
+                                "pathurl": '/images/download.png',
+                                "name": "evvai3",
+                                "alt": 'ciao-ciao',
+                                "caption": 'ciao-ciao',
+                                "type": 'png'
+                            },                             
                             "size": 512,
                             "index": 2,                            
                             "other": []
@@ -64,6 +85,13 @@
                             "id": "2.12",
                             "type": "folder",
                             "name": "folderlast",
+                            "description": {
+                                "pathurl": null,
+                                "name": "folderlast",
+                                "alt": null,
+                                "caption": null,
+                                "type": null
+                            },                             
                             "size": 512,
                             "index": 2,
                             "other": [
@@ -110,6 +138,13 @@
             "id": "3",
             "type": "folder",
             "name": "explain",
+            "description": {
+                "pathurl": null,
+                "name": "folderlast",
+                "alt": null,
+                "caption": null,
+                "type": null
+            },            
             "size": 512,
             "index": 0,
             "other": [
@@ -117,6 +152,13 @@
                     "id": "3.1",
                     "type": "folder",
                     "name": "evvai4s",
+                    "description": {
+                        "pathurl": null,
+                        "name": "evvai4s",
+                        "alt": null,
+                        "caption": null,
+                        "type": null
+                    },                     
                     "size": 512,
                     "index": 1,
                     "other": [
